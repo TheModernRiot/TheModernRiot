@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TheModernRiot or more personally known as Nicole O.
-- 👀 I’m interested in Pumpkin Spiced Lattes from Starbucks
-- 🌱 I’m currently learning coding fundimentals and c#.
-- 💞️ I’m looking to collaborate on projects to help build my coding knowleage.
-- 📫 How to reach me: For all business inquries, feel free to visit my Linkedin. If you want to look at my current building stack, my stackshare is in my profile.
+- 👋 Hi, I’m @TheModernRiot. I was a dog roomer for 10 years and took the confusing first steps of learning the *fun and very easy* world of c# and microsft related language such as LINQ, the .NET family, AZURE, ect.
+- 👀 I’m interested in learning to build software for small companies.
+- 💞️ I'm here also to lurk and find projects to help build my coding knowleage.
+- 📫 How to reach me: For all business inquries, feel free to visit my Indeed. If you want to look at my current building stack, my stackshare is in my profile.
 
 <!---
 TheModernRiot/TheModernRiot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
